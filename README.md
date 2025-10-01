@@ -1,4 +1,4 @@
-# 🤖 PyBot 
+# PyBot 
 
 PyBot is a **console-based chatbot** built in Python that feels more human-like.  
 It can **remember your name, mood, and recall past conversations** while chatting with you.  
